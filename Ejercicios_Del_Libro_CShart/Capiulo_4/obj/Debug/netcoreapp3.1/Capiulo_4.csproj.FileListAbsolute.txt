@@ -1,0 +1,13 @@
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.exe
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.deps.json
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.runtimeconfig.json
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.runtimeconfig.dev.json
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.dll
+C:\Users\JeryJ\source\repos\Capiulo_4\bin\Debug\netcoreapp3.1\Capiulo_4.pdb
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.csprojAssemblyReference.cache
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.AssemblyInfoInputs.cache
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.AssemblyInfo.cs
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.csproj.CoreCompileInputs.cache
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.dll
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.pdb
+C:\Users\JeryJ\source\repos\Capiulo_4\obj\Debug\netcoreapp3.1\Capiulo_4.genruntimeconfig.cache
